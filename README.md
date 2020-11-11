@@ -1,1 +1,0 @@
-This is a repository for storing scripts from CCCR Advnced course.
